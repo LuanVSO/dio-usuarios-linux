@@ -1,0 +1,4 @@
+/publico:777:
+/adm:770:GRP_ADM
+/ven:770:GRP_VEN
+/sec:770:GRP_SEC

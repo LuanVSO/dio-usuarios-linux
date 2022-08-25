@@ -1,0 +1,9 @@
+carlos:senh@123:GRP_ADM
+debora:senh@123:GRP_VEN
+josefina:senh@123:GRP_SEC
+maria:senh@123:GRP_ADM
+sebastiana:senh@123:GRP_VEN
+amanda:senh@123:GRP_SEC
+joao:senh@123:GRP_ADM
+roberto:senh@123:GRP_VEN
+rogerio:senh@123:GRP_SEC
