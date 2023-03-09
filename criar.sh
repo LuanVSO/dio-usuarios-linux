@@ -58,7 +58,7 @@ function criar_usuarios() {
 		pass=$(echo "$line" | cut -d: -f2)
 		local group
 		group=$(echo "$line" | cut -d: -f3)
-		useradd "$nome" -m -s "$bashpath" -p "$(openssl passwd "$pass")" -G "$group"
+		useradd "$nome" -m -s "$bashpath" -p "$(openssl passwd -1 "$pass")" -G "$group"
 	done <"$1"
 }
 
